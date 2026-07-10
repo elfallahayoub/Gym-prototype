@@ -7,7 +7,7 @@ import Reveal from "./Reveal";
 const infoItems = [
   { icon: MapPin, title: "Location", detail: "Route de Sefrou, Fes, Morocco" },
   { icon: Phone, title: "Phone", detail: "+212 6 00 00 00 00" },
-  { icon: Mail, title: "Email", detail: "hello@forgefitness.ma" },
+  { icon: Mail, title: "Email", detail: "hello@nextlevelfitness.ma" },
   { icon: Clock, title: "Hours", detail: "Mon – Sun: 5:00 AM – 11:00 PM" },
 ];
 

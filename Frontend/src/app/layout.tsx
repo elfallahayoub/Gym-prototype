@@ -14,9 +14,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Forge Fitness | Premium Training Gym in Fes",
+  title: "NextLevel Fitness | Premium Training Gym in Fes",
   description:
-    "Forge Fitness is a premium strength & conditioning gym in Fes, Morocco. Expert coaches, modern equipment and personalized programs built to get real results.",
+    "NextLevel Fitness is a premium strength & conditioning gym in Fes, Morocco. Expert coaches, modern equipment and personalized programs built to get real results.",
 };
 
 export default function RootLayout({

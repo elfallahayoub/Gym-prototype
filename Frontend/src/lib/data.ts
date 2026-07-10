@@ -144,7 +144,7 @@ export const testimonials = [
     name: "Anas Tazi",
     since: "Member since 2025",
     quote:
-      "I joined Forge 6 months ago and the transformation has been incredible. The coaches actually care about your progress, not just selling memberships.",
+      "I joined NextLevel 6 months ago and the transformation has been incredible. The coaches actually care about your progress, not just selling memberships.",
     image:
       "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&auto=format&fit=crop",
   },

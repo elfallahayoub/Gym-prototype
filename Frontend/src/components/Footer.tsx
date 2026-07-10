@@ -23,7 +23,7 @@ export default function Footer() {
       <div className="mx-auto max-w-7xl px-6 grid sm:grid-cols-2 lg:grid-cols-4 gap-12">
         <div>
           <a href="#home" className="font-display text-3xl text-white">
-            FORGE<span className="text-accent">.</span>
+            NEXTLEVEL<span className="text-accent">.</span>
           </a>
           <p className="mt-4 text-neutral-400 text-sm leading-relaxed max-w-xs">
             Premium strength & conditioning gym in Fes. Real coaching, real
@@ -103,7 +103,7 @@ export default function Footer() {
       </div>
 
       <div className="mx-auto max-w-7xl px-6 mt-16 pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-neutral-500">
-        <p>&copy; 2026 Forge Fitness. All rights reserved.</p>
+        <p>&copy; 2026 NextLevel Fitness. All rights reserved.</p>
         <p>
           Designed & built by{" "}
           <a

@@ -25,7 +25,7 @@ export default function Gallery() {
           >
             <Image
               src={src}
-              alt="Forge Fitness gym"
+              alt="NextLevel Fitness gym"
               fill
               sizes="(max-width: 640px) 45vw, 30vw"
               className="object-cover group-hover:scale-110 transition-transform duration-500"

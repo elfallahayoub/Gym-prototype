@@ -47,7 +47,7 @@ export default function About() {
             <br />A <span className="text-accent">Transformation</span> Hub.
           </h2>
           <p className="mt-6 text-neutral-400 text-base sm:text-lg leading-relaxed">
-            At Forge Fitness, we combine science-backed training methods with
+            At NextLevel Fitness, we combine science-backed training methods with
             genuine human coaching. Whether your goal is fat loss, muscle
             gain or athletic performance, our team builds a plan around your
             life — not the other way around.

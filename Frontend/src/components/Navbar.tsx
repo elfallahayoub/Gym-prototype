@@ -28,7 +28,7 @@ export default function Navbar() {
           href="#home"
           className="font-display text-3xl tracking-wide text-white"
         >
-          FORGE<span className="text-accent">.</span>
+          NEXTLEVEL<span className="text-accent">.</span>
         </a>
 
         <nav className="hidden lg:flex items-center gap-8">
